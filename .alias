@@ -1,0 +1,10 @@
+# Aliases
+alias ws="cd ${HOME}/Workspace"
+alias dc="docker-compose"
+alias b="source ~/.zshrc"
+alias g="git"
+alias k="kubectl"
+alias l="exa --long --git --header"
+alias s="skaffold"
+alias v="cd ${HOME}/Workspace/viki"
+
